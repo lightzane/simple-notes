@@ -37,8 +37,18 @@ The following are the 4 nations that lived together in harmony.
 The following link above can be achieved by writing the following:
 
 \`\`\`md
-[Initial Note](#note@1690890493396)
+Option 1:
+[Option 1 Link](#/note/1690890493396)
+
+Option 2:
+[Option 2 Link](#note@1690890493396)
 \`\`\`
+
+Option 1:
+[Option 1 Link](#/note/1690890493396)
+
+Option 2:
+[Option 2 Link](#note@1690890493396)
 
 The numbers refers to the \`id\` of the **note**. To identify the \`id\`, just navigate to the note page and the id is determined by looking at the address URL \`/#/note/{{ noteId }}\``,tags:["markdown","notes"],flags:[],comments:[{id:"1692416415607",message:`The comments can also be written in a markdown
 
