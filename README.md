@@ -19,7 +19,7 @@ Focus on the content by simply writing down notes and it will handle the rest.
 - ✅ Tasks or to-do check lists
 - 🔎 Add tags to manage, organize or group notes
 - 🔗 Mention or link related notes automatically
-- 📔 Notebook (notes will multiple pages)
+- 📔 Notebooks and/or table of contents navigator
 - 🏃‍♂️ Activity history and heatmap graph
 - 🚩 Customizable flags / pinned notes
 - ✒ Highlights developer code syntax
