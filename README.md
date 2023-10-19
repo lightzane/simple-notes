@@ -7,7 +7,7 @@ https://lightzane.github.io/simple-notes
 
 Focus on the content by simply writing down notes and it will handle the rest.
 
-**Simple Notes** is a small serverless web application which can be used to your daily notes and activities.
+**Simple Notes** is a small serverless web application which can be used to your daily notes, activities, blogs, etc.
 
 ## Features Overview
 
@@ -27,12 +27,13 @@ Focus on the content by simply writing down notes and it will handle the rest.
 
 ### Markdown Support
 
-1. In **description** or **comments**, type `@` and a popup will appear. 
+1. In **description** or **comments**, type `@` and a popup will appear.
 2. Continue typing `@md:` to see all available **markdown templates**.
 
 ```bash
 @md:
 ```
+
 While it has support to general markdown format, **Simple Notes** also have built-in specific functionalities and it is indicated by ✨ icon to items in the list on the popup.
 
 ### Mention or linking notes
@@ -49,12 +50,12 @@ You can focus to search on notes by writing the following:
 
 ## Data Privacy
 
-All your data are stored locally in your web browser. (*specifically in localStorage*)
+All your data are stored locally in your web browser. (_specifically in localStorage_)
 
 Since it is a serverless web application, it does not rely on any cloud databases. You are all responsible on storing, backup or keeping all the data in your local machine.
 
 ## Running locally
 
-You can also **download** a fixed version or local copy of this application to access it directly without surfing the internet neither visiting the website itself and open `docs/index.html` in your browser. 
+You can also **download** a fixed version or local copy of this application to access it directly without surfing the internet neither visiting the website itself and open `docs/index.html` in your browser.
 
 But if there are new features available, you might have to download a copy again to get the latest updates.
